@@ -2,7 +2,7 @@
 The aim of this challenge is to develop a sentiment classifier that can assign a large set of product reviews to the five levels of polarity of opinion as accurately as possible, given a small amount of labeled reviews and a large amount of unlabelled reviews. It is a multi-class classification task, where each product review is labeled with one of the five sentiment labels, which are strong negative, weak negative, neutral, weak positive, and strong positive
 
 ***Sentiment Classifier has been developed by implementing one of 3 algorithms i.e***
-   ***1. Logistic Regression***
+   ***1. Logistic Regression*** <br> 
    ***2. Naive Bayes***
    ***3. Deep Learning using Neural Networks***
 
