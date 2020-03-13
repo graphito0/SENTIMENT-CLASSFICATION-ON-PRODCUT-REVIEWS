@@ -6,5 +6,7 @@ The aim of this challenge is to develop a sentiment classifier that can assign a
    ***2. Naive Bayes*** <br> 
    ***3. Deep Learning using Neural Networks***
 
-***The goal of the task is classify unlabelled product reviews (data of 600k records)
-by training the model with the labeled data (data of 50k records) and testing data (data of 50k records)***
+***The goal of the task is classify unlabelled product reviews  (data of 600k records with unlabelled classification)
+by training the model with the labeled data (data of 50k records with labelled classification) and testing data (data of 50k records)***
+
+# Complete data cleaning, model training, model selection and computing model accuracy is described in the Project_Report file.
